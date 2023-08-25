@@ -1,0 +1,14 @@
+.site-header {
+  border-bottom: 1px solid hsl(240, 0%, 90%);
+  padding: 0.5rem 0;
+
+  h1 {
+    font-size: 1.2rem;
+  }
+}
+
+.test {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
