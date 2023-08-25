@@ -42,6 +42,12 @@
   cursor: pointer;
 }
 
+.post-author:hover {
+  .hover-card {
+    display: block;
+  }
+}
+
 .hover-card {
   position: absolute;
   top: 1.5rem;
